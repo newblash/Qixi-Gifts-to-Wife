@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\bin\Debug\七夕送老婆礼物.exe.config
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\bin\Debug\七夕送老婆礼物.exe
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\bin\Debug\七夕送老婆礼物.pdb
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\obj\Debug\七夕送老婆礼物.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\obj\Debug\七夕送老婆礼物.Form1.resources
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\obj\Debug\七夕送老婆礼物.Properties.Resources.resources
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\obj\Debug\七夕送老婆礼物.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\obj\Debug\七夕送老婆礼物.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\obj\Debug\七夕送老婆礼物.exe
+C:\Users\Administrator\source\repos\七夕送老婆礼物\七夕送老婆礼物\obj\Debug\七夕送老婆礼物.pdb
